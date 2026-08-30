@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 360" role="img" aria-labelledby="title desc">
+  <title id="title">Block runtime map</title>
+  <desc id="desc">A diagram showing a Block document connected to shared state, command line tools, tests and multiple language runtimes.</desc>
+  <rect width="960" height="360" rx="18" fill="#0d1117"/>
+  <rect x="1" y="1" width="958" height="358" rx="17" fill="none" stroke="#30363d"/>
+  <text x="48" y="48" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="23" font-weight="700">How Block fits together</text>
+  <text x="48" y="73" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="13">One readable document, shared state, and multiple execution boundaries</text>
+  <g stroke="#8b949e" stroke-width="1.5" fill="none" opacity=".9">
+    <path d="M480 180 L250 125"/>
+    <path d="M480 180 L250 235"/>
+    <path d="M480 180 L710 125"/>
+    <path d="M480 180 L710 235"/>
+    <path d="M480 180 L480 290"/>
+  </g>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <rect x="365" y="132" width="230" height="96" rx="12" fill="#ffffff"/>
+    <text x="480" y="169" text-anchor="middle" fill="#0d1117" font-size="24" font-weight="700">.blk</text>
+    <text x="480" y="193" text-anchor="middle" fill="#333333" font-size="12">Block document</text>
+    <text x="480" y="211" text-anchor="middle" fill="#555555" font-size="11">parse · coordinate · report</text>
+    <g>
+      <rect x="145" y="94" width="210" height="62" rx="10" fill="#161b22" stroke="#8b949e"/>
+      <text x="250" y="121" text-anchor="middle" fill="#ffffff" font-size="16" font-weight="700">Python · JavaScript</text>
+      <text x="250" y="141" text-anchor="middle" fill="#8b949e" font-size="11">Language runtimes</text>
+    </g>
+    <g>
+      <rect x="145" y="204" width="210" height="62" rx="10" fill="#161b22" stroke="#8b949e"/>
+      <text x="250" y="231" text-anchor="middle" fill="#ffffff" font-size="16" font-weight="700">Lua · PHP · SQL</text>
+      <text x="250" y="251" text-anchor="middle" fill="#8b949e" font-size="11">Language runtimes</text>
+    </g>
+    <g>
+      <rect x="605" y="94" width="210" height="62" rx="10" fill="#161b22" stroke="#8b949e"/>
+      <text x="710" y="121" text-anchor="middle" fill="#ffffff" font-size="16" font-weight="700">Shared state</text>
+      <text x="710" y="141" text-anchor="middle" fill="#8b949e" font-size="11">Explicit hand-off boundary</text>
+    </g>
+    <g>
+      <rect x="605" y="204" width="210" height="62" rx="10" fill="#161b22" stroke="#8b949e"/>
+      <text x="710" y="231" text-anchor="middle" fill="#ffffff" font-size="16" font-weight="700">CLI · Installer</text>
+      <text x="710" y="251" text-anchor="middle" fill="#8b949e" font-size="11">Local developer workflow</text>
+    </g>
+    <g>
+      <rect x="375" y="288" width="210" height="48" rx="10" fill="#161b22" stroke="#8b949e"/>
+      <text x="480" y="318" text-anchor="middle" fill="#ffffff" font-size="15" font-weight="700">Docs · Tests · Releases</text>
+    </g>
+  </g>
+</svg>
