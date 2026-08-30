@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 300" role="img" aria-labelledby="title desc">
+  <title id="title">Block project timeline</title>
+  <desc id="desc">A visual timeline from Block and Block_ prototypes to Block_lang and the experimental Block Web Runtime.</desc>
+  <rect width="960" height="300" rx="18" fill="#0d1117"/>
+  <rect x="1" y="1" width="958" height="298" rx="17" fill="none" stroke="#30363d"/>
+  <text x="48" y="52" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="23" font-weight="700">Block project timeline</text>
+  <text x="48" y="78" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="13">From early prototypes to a documented, testable language engine</text>
+  <line x1="92" y1="155" x2="868" y2="155" stroke="#8b949e" stroke-width="2"/>
+  <line x1="92" y1="155" x2="868" y2="155" stroke="#ffffff" stroke-width="1" stroke-dasharray="3 10" opacity=".65"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <circle cx="110" cy="155" r="10" fill="#ffffff"/>
+    <circle cx="345" cy="155" r="10" fill="#c9d1d9"/>
+    <circle cx="590" cy="155" r="10" fill="#8b949e"/>
+    <circle cx="835" cy="155" r="10" fill="#ffffff"/>
+    <text x="110" y="126" text-anchor="middle" fill="#ffffff" font-size="17" font-weight="700">Block</text>
+    <text x="110" y="190" text-anchor="middle" fill="#8b949e" font-size="12">Early prototype</text>
+    <text x="345" y="126" text-anchor="middle" fill="#ffffff" font-size="17" font-weight="700">Block_</text>
+    <text x="345" y="190" text-anchor="middle" fill="#8b949e" font-size="12">Middle stage</text>
+    <text x="590" y="126" text-anchor="middle" fill="#ffffff" font-size="17" font-weight="700">Block_lang</text>
+    <text x="590" y="190" text-anchor="middle" fill="#8b949e" font-size="12">Current engine</text>
+    <text x="835" y="126" text-anchor="middle" fill="#ffffff" font-size="17" font-weight="700">Block Web Runtime</text>
+    <text x="835" y="190" text-anchor="middle" fill="#8b949e" font-size="12">Experimental path</text>
+    <text x="48" y="250" fill="#c9d1d9" font-size="12">The repositories are kept as public references for the evolution of the project.</text>
+  </g>
+</svg>
