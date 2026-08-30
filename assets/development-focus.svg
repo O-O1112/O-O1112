@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 390" role="img" aria-labelledby="title desc">
+  <title id="title">O-O1112 development focus board</title>
+  <desc id="desc">Four focus areas: core engine, safe distribution, human and AI collaboration, and open collaboration.</desc>
+  <rect width="960" height="390" rx="18" fill="#0d1117"/>
+  <rect x="1" y="1" width="958" height="388" rx="17" fill="none" stroke="#30363d"/>
+  <text x="48" y="48" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="23" font-weight="700">Current development focus</text>
+  <text x="48" y="74" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="13">The work behind Block Language and its surrounding developer experience</text>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <g>
+      <rect x="48" y="108" width="410" height="108" rx="12" fill="#161b22" stroke="#8b949e"/>
+      <circle cx="79" cy="141" r="16" fill="#ffffff"/>
+      <text x="79" y="147" text-anchor="middle" fill="#0d1117" font-size="16" font-weight="700">01</text>
+      <text x="110" y="143" fill="#ffffff" font-size="18" font-weight="700">Core engine</text>
+      <text x="110" y="168" fill="#c9d1d9" font-size="12">Predictable execution, state hand-off,</text>
+      <text x="110" y="188" fill="#c9d1d9" font-size="12">diagnostics, and testable runtime behavior.</text>
+    </g>
+    <g>
+      <rect x="502" y="108" width="410" height="108" rx="12" fill="#161b22" stroke="#8b949e"/>
+      <circle cx="533" cy="141" r="16" fill="#c9d1d9"/>
+      <text x="533" y="147" text-anchor="middle" fill="#0d1117" font-size="16" font-weight="700">02</text>
+      <text x="564" y="143" fill="#ffffff" font-size="18" font-weight="700">Safe distribution</text>
+      <text x="564" y="168" fill="#c9d1d9" font-size="12">Installer trust, release verification,</text>
+      <text x="564" y="188" fill="#c9d1d9" font-size="12">checksums, and clear environment boundaries.</text>
+    </g>
+    <g>
+      <rect x="48" y="244" width="410" height="108" rx="12" fill="#161b22" stroke="#8b949e"/>
+      <circle cx="79" cy="277" r="16" fill="#8b949e"/>
+      <text x="79" y="283" text-anchor="middle" fill="#0d1117" font-size="16" font-weight="700">03</text>
+      <text x="110" y="279" fill="#ffffff" font-size="18" font-weight="700">Human + AI</text>
+      <text x="110" y="304" fill="#c9d1d9" font-size="12">Human-led decisions, AI-assisted exploration,</text>
+      <text x="110" y="324" fill="#c9d1d9" font-size="12">review, documentation, and iteration.</text>
+    </g>
+    <g>
+      <rect x="502" y="244" width="410" height="108" rx="12" fill="#161b22" stroke="#8b949e"/>
+      <circle cx="533" cy="277" r="16" fill="#ffffff"/>
+      <text x="533" y="283" text-anchor="middle" fill="#0d1117" font-size="16" font-weight="700">04</text>
+      <text x="564" y="279" fill="#ffffff" font-size="18" font-weight="700">Open collaboration</text>
+      <text x="564" y="304" fill="#c9d1d9" font-size="12">Reproducible reports, examples, tests,</text>
+      <text x="564" y="324" fill="#c9d1d9" font-size="12">translations, and community feedback.</text>
+    </g>
+  </g>
+</svg>
