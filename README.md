@@ -21,24 +21,6 @@
   <img src="https://img.shields.io/badge/JavaScript-Web%20Tools-777777?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript">
 </p>
 
-<pre align="center">
-□□□□■■□□□□□□
-□□□□■■■■■■□□
-□□□□■■■■■■■□
-□□□□■■■■■■□□□
-□□□□■■□□□□□□
-□□□□■■□□□□□□
-□□□□■■□□□□□□
-□□□□■■■■■■□□
-□□□□■■■■■■■□
-□□□□■■■■■■□□□
-□□□□■■□□□□□□
-□□□□■■□□□□□□
-</pre>
-
-<p align="center">
-  A small pixel mark for Block Language — built from <code>□</code> and <code>■</code>.
-</p>
 
 ## About me
 
