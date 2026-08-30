@@ -58,21 +58,16 @@ The project is developed through a human-led, AI-assisted workflow. I make the p
 | [Block](https://github.com/O-O1112/Block) | An earlier stage in the development history of Block Language. |
 | [Block_](https://github.com/O-O1112/Block_) | A middle-stage prototype and historical reference for the project. |
 
-## Public activity
+## Public activity & project maps
 
-The charts below are generated from public GitHub activity and are intended as a quick visual overview. They may update with a short delay.
+The profile's native contribution graph remains the source of truth for GitHub activity. These visual charts are stored in this repository, so the page does not depend on an external chart host.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=O-O1112&show_icons=true&hide_border=true&theme=dark&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&icon_color=FFFFFF&include_all_commits=true&count_private=false" alt="O-O1112 GitHub statistics" width="420">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=O-O1112&layout=compact&hide_border=true&theme=dark&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&langs_count=8" alt="Most used programming languages" width="360">
+  <img src="./assets/block-timeline.svg" alt="Block project timeline" width="840">
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=O-O1112&theme=dark&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub contribution streak" width="620">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=O-O1112&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=8B949E&area_color=30363D&area=true&hide_border=true" alt="GitHub activity graph" width="840">
+  <img src="./assets/block-runtime-map.svg" alt="Block runtime map" width="840">
 </p>
 
 ## What I am learning
