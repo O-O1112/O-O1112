@@ -29,6 +29,16 @@ My main project is **Block Language**: a local-first, polyglot programming langu
 
 I care about more than adding features. I also work on release reproducibility, installer safety, actionable error messages, documentation, testing, and a development experience that makes sense on a real computer.
 
+## At a glance
+
+| Area | Focus |
+| --- | --- |
+| Main project | Block Language |
+| Core interests | Language design, runtimes, developer tools |
+| Working style | Human-led, AI-assisted, openly documented |
+| Current priority | Stability, safety, reproducibility, and usability |
+| Preferred communication | English or Traditional Chinese |
+
 ## Featured project
 
 ### Block Language
@@ -49,6 +59,23 @@ Current areas of focus include:
 
 The project is developed through a human-led, AI-assisted workflow. I make the product decisions and review the results; AI tools help explore designs, identify edge cases, draft documentation, and accelerate iteration. The final goal is software that remains understandable, testable, and useful to people.
 
+## A small Block document
+
+Block is designed around readable sections that keep each language boundary visible:
+
+```text
+<py>
+message = "Hello from Block"
+print(message)
+</py>
+
+<js>
+console.log("The document can continue in JavaScript.")
+</js>
+```
+
+The example is intentionally small: clear boundaries make it easier to understand what runs, what state is shared, and where an error comes from.
+
 ## Other work
 
 | Project | Description |
@@ -68,6 +95,14 @@ The profile's native contribution graph remains the source of truth for GitHub a
 
 <p align="center">
   <img src="./assets/block-runtime-map.svg" alt="Block runtime map" width="840">
+</p>
+
+## Development focus board
+
+This visual summary is maintained in the profile repository and uses the same monochrome visual language as Block.
+
+<p align="center">
+  <img src="./assets/development-focus.svg" alt="Current development focus board" width="840">
 </p>
 
 ## What I am learning
